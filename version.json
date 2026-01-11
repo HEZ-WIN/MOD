@@ -1,6 +1,5 @@
 {
-  "version": "2.5.9",
+  "version": "1.0.0",
   "maintenance": false,
-  "maintenance_message": "Bakımda...",
-  "library_url": "https://..."
+  "maintenance_message": "Server is currently under maintenance. Please try again later."
 }
