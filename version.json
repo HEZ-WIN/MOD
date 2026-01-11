@@ -1,4 +1,6 @@
 {
-  "version": "2.5.4",
-  "maintenance": false
+  "version": "2.5.1",
+  "maintenance": true,
+  "maintenance_message": "Bakımda...",
+  "library_url": "https://..."
 }
