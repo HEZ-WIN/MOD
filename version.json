@@ -1,5 +1,8 @@
 {
-  "version": "1.0.6",
-  "maintenance": false,
+  "version": "1.0.5",
+"Update note":
+-Fix some bug
+-Add New bypass"
+  "maintenance": false, 
   "maintenance_message": "Server is currently under maintenance. Please try again later."
 }
