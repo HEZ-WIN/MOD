@@ -1,9 +1,4 @@
 {
-  "status": "success",
-  "activated": true,
-  "is_valid": true,
-  "license_status": "active",
-  "message": "Activation Successful",
-  "device_id": "all",
-  "expiry_date": "2099-12-31"
+  "message": "Invalid key",
+  "success": false
 }
